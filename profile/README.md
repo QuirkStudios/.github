@@ -21,6 +21,7 @@ Welcome to Ubuntu 20.04.4 LTS (GNU/Linux 5.4.0-122-generic x86_64) on github.com
 
   Service status:
    Modalytics: ▲ inactive
+   Skinshop: ▲ inactive
    Quirkcraft: ▲ inactive
 
 12 updates can be applied immediately.
@@ -35,6 +36,7 @@ We are based in the UK, we develop open source software and modifications for Mi
 quirkstudios@github:~$ cat projects.txt
 Our most notable open source projects are probably:
 - <a href="https://github.com/QuirkStudios/Modalytics">Modalytics</a>, The best Performance Monitoring & Error Tracking tool for Minecraft Mods and Plugins.
+- <a href="https://github.com/QuirkStudios/Skinshop">Skinshop</a>, Professional Minecraft Skin creation software. Create stunning skins.
 - <a href="https://github.com/QuirkStudios/DevToys">DevToys</a>, In game tools for Fabric and Forge mod development.
 
 Aside from those, we have a list of large projects you can find on Curseforge and Modrinth.
